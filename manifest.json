@@ -1,0 +1,9 @@
+{
+  "name": "PhotoTrace",
+  "short_name": "PhotoTrace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#162b52",
+  "description": "Recherche de sources publiques à partir de mots-clés."
+}
